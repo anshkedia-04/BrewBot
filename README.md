@@ -54,8 +54,9 @@ Open the notebook and upload:
 
 These will be used to answer customer queries!
 
-### 2. ✅ Install Dependencies (Automatically handled)
+### 2. 📦 Dependencies
 
-```python
-!pip install -U langchain langchain-community langchainhub transformers accelerate huggingface_hub --quiet
-!pip install -U sentence-transformers faiss-cpu pypdf --quiet
+```bash
+!pip install -U langchain langchain-community langchainhub
+!pip install -U transformers accelerate huggingface_hub
+!pip install -U sentence-transformers faiss-cpu pypdf
