@@ -24,13 +24,6 @@ This project is your plug-and-play solution!
 
 ---
 
-## 📂 Files Included
-
-
-
-
----
-
 ## ⚙️ Tech Stack
 
 - 🧩 LangChain
