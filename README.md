@@ -53,3 +53,11 @@ These will be used to answer customer queries!
 !pip install -U langchain langchain-community langchainhub
 !pip install -U transformers accelerate huggingface_hub
 !pip install -U sentence-transformers faiss-cpu pypdf
+
+## 🚀 How It Works
+
+- Extracts info from PDF, TXT, and CSV files using LangChain loaders
+- Splits and embeds text using HuggingFace (`MiniLM`)
+- Stores data in a FAISS vector database
+- Uses FLAN-T5 via HuggingFace pipeline for natural Q&A
+- Allows users to ask café-related questions in a chat loop
