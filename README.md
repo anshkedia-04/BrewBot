@@ -8,7 +8,6 @@
 ![LangChain](https://img.shields.io/badge/LangChain-Framework-green?style=for-the-badge)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FLAN--T5-orange?style=for-the-badge&logo=huggingface)
 ![FAISS](https://img.shields.io/badge/FAISS-Vector%20DB-blueviolet?style=for-the-badge)
-![SentenceTransformers](https://img.shields.io/badge/Sentence%20Transformers-MiniLM-red?style=for-the-badge)
 ![GoogleColab](https://img.shields.io/badge/Google%20Colab-Compatible-yellow?style=for-the-badge&logo=googlecolab)
 
 ---
@@ -40,7 +39,6 @@ Perfect for:
 - 🧩 **LangChain** — orchestration & document loaders  
 - 🤗 **HuggingFace Transformers** (`FLAN-T5`) — question answering model  
 - 📚 **FAISS** — vector storage for fast search  
-- 🧠 **Sentence Transformers** — embedding generation (`MiniLM`)  
 - 📄 **Multi-format Loaders** — PDF, TXT, CSV  
 - 💻 **Google Colab-compatible** — easy to run without local setup
 
